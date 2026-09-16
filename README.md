@@ -49,6 +49,8 @@ The Excel workbook contains separate sheets for:
 
 ## 📈 Dashboard
 
+![India CPI Inflation Analysis Dashboard](CPI_Dashboard.png)
+
 The interactive dashboard provides a visual summary of CPI trends and category-level inflation analysis.
 
 It includes:
